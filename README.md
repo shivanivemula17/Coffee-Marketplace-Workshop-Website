@@ -20,3 +20,9 @@ Test the website thoroughly to ensure functionality, usability, and compatibilit
 Populate the website with coffee products, workshop listings, and other relevant content to provide a compelling user experience.
 Integrate e-commerce and booking functionality into your website using JavaScript or backend technologies as needed.
 Launch the Coffee Marketplace & Workshop Website and promote it through social media, email marketing, and other channels to attract customers and workshop attendees.
+
+<img src="screenshot1.jpg">
+<img src="screenshot2.jpg">
+<img src="screenshot3.jpg">
+<img src="screenshot4.jpg">
+<img src="screenshot6.jpg">
